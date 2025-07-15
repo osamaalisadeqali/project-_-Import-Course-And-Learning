@@ -7,4 +7,4 @@
 <img width="1849" height="981" alt="Untitled3" src="https://github.com/user-attachments/assets/b3a8f733-87ad-4703-9dd8-f9bc500badec" />
 
 # الواجهة الرئيسية
-![Uploading Untitled5.png…]()
+<img width="1895" height="981" alt="Untitled5" src="https://github.com/user-attachments/assets/6a7ed80c-d487-4c81-bd11-b8d69603681e" />
